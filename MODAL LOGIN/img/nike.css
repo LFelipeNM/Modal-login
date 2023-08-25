@@ -1,0 +1,283 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    
+
+
+}
+
+#retangulo1{
+  position: absolute;
+  width: 100%;
+  height: 13%;
+    background-color: rgb(0, 0, 0);
+}
+#img1 img{
+    position: absolute;
+    left: 40%;
+    top:-6.5%;
+    width: 23%;
+}
+#menu h1{
+    position: absolute;
+    color: white;
+    left: 10%;
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif; 
+    top: 6.6%;
+}
+#imgprincipal img{
+position: absolute;
+width: 100%;
+height: 130%;
+top: 13%;
+
+}
+#pelicula{
+position: absolute;
+width: 100%;
+height: 120%;
+top: 13%;
+   
+background: rgba(0, 0, 0, 0.66);
+}
+#just img{
+    position: absolute;
+    left: 37.5%;
+    top: 54%;
+}
+#retangulo2{
+    position: absolute;
+  width: 100%;
+  height: 13%;
+  top: 133%;
+    background-color: black;
+    
+}
+#linha{
+    position: absolute;
+    width: 40%;
+height: 1%;
+top: 140%;
+background-color: #FC7900;
+}
+#linha2{
+    position: absolute;
+    width: 40%;
+height: 1%;
+top: 140%;
+left: 60%;
+background-color: #FC7900;
+}
+#COLE{
+    position: absolute;
+    left: 43.9%;
+    top: 137.9%;
+    color: #FFF;
+font-family: RocknRoll One;
+font-size: 130%;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.pp li a:hover {
+    color: #ff0000;
+    opacity: initial;
+}
+
+.menu h1 {
+
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    left: 200%;
+    top: 5%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+
+    color: #000000;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 10%;
+    top: 5.5%;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+}
+
+nav ul li a {
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    
+
+
+}
+
+nav ul li:hover>ul {
+    display: block;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: -100%;
+    width: 370%;
+    top: 96%;
+    height: 700%;
+    background: rgb(0, 0, 0);
+    border-radius: 15px;
+    text-decoration: none;
+
+}
+
+nav ul ul li {
+    display: block;
+    text-decoration: none;
+}
+
+nav ul ul li a {
+    padding: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 135%;
+    line-height: 29px;
+    left: 16000%;
+    text-decoration: none;
+
+}
+
+#img011 img{
+    position: absolute;
+    top:146%;
+    height: 65%;
+    width: 26%;
+}
+
+#FAFA{
+background-color: #000000;
+position: absolute;
+    top:146%;
+    height: 65%;
+    width: 26%;
+    opacity: 40%;
+}
+#img012 img{
+    position: absolute;
+    top:146%;
+    height: 65%;
+    width: 26%;
+    left: 26.5%;
+}
+
+#FAFA2{
+background-color: #000000;
+position: absolute;
+    top:146%;
+    height: 65%;
+    width: 26%;
+    opacity: 40%;
+    left: 26.5%
+}
+#img013 img{
+    position: absolute;
+    top:146%;
+    height: 65%;
+    width: 26%;
+    left: 53%;
+}
+
+#FAFA3{
+background-color: #000000;
+position: absolute;
+    top:146%;
+    height: 65%;
+    width: 26%;
+    opacity: 40%;
+    left: 53%
+}
+#img014 img{
+    position: absolute;
+    top:146%;
+    height: 65%;
+    width: 20%;
+    left: 79.5%;
+}
+
+#FAFA4{
+background-color: #000000;
+position: absolute;
+    top:146%;
+    height: 65%;
+    width: 20%;
+    opacity: 40%;
+    left: 79.5%
+}
+
+#Simbolo img{
+    position: absolute;
+    top:162%;
+    left:-3.9%;
+   
+
+}
+#Simbolo2 img{
+    position: absolute;
+    top:162%;
+    left:23%;
+   
+
+}
+#Simbolo3 img{
+    position: absolute;
+    top:162%;
+    left:50%;
+   
+
+}
+#Simbolo4 img{
+    position: absolute;
+    top:155%;
+    left:80%;
+    width: 20%;}
+
+ #SimboloJ img{
+    position: absolute;
+    top:172%;
+    left:82%;
+    width: 15%
+
+}
+    
+   
+
+
+
+
+
+
+
+
+
+
